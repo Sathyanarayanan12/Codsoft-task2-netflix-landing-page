@@ -1,3 +1,6 @@
-# <a href="https://sharath-netflix.netlify.app/" target="_blank">Link</a>
+## Features
 
-### All views are well optimized and are in wait for a review from a mentor.
+- Responsive design for various screen sizes.
+- Carousel for showcasing featured movies or TV shows.
+- Navigation bar with links to different sections of the page.
+- Hover effects for interactive elements.
